@@ -4,7 +4,7 @@
 |:------:|------|:----:|------------|
 | [1](#team-1) | 이사장님 |  |  |
 | [2](#team-2) | Sudo |  |  |
-| [3](#team-3) | 할루캐쳐 |  |  |
+| [3](#team-3) | 할루캐쳐 | 연구 | Alltology |
 | [5](#team-5) | 규교굥 |  |  |
 | [6](#team-6) | Greenfield |  |  |
 | [7](#team-7) | reverdir |  |  |
@@ -74,19 +74,19 @@
 
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 |  |
-| 트랙 |  |
+| 프로젝트명 | Alltology |
+| 트랙 | 연구 |
 | 팀명 | 할루캐쳐 |
-| 팀구성 |  |
-| 팀지도교수 |  |
+| 팀구성 | 박세령, 이다영, 손현경 |
+| 팀지도교수 | 황의원 교수님 |
 | 무엇을 만들고자 하는가 | 기존 모델과 온톨로지가 탑재된 모델의 성능(정확도) 비교한 연구논문 |
 | 고객 (누구를 위해) | LLM 모델의 답변 정확도 향상 |
 | Pain Point (해결할 문제) | 할루시네이션을 비롯한 정확도 문제를 개선하기 위해서 |
 | 사용 기술 | 온톨로지 |
 | 기대 효과 | 미디어 분야의 LLM 모델의 답변 정확도 향상 (헐루시네이션 감소 효과) |
 | GitHub Repo | [https://github.com/Ontology0/Graduation-Project](https://github.com/Ontology0/Graduation-Project) |
-| Team Ground Rule |  |
-| 최종수정일 |  |
+| Team Ground Rule |  [Team Ground Rule](https://github.com/ontology0/Graduation-Project/blob/main/Team_Ground_Rule.md) |
+| 최종수정일 | 2026/03/11 |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
