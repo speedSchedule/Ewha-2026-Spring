@@ -269,8 +269,8 @@
 | 사용 기술 | 프론트엔드 웹 개발 기술, 백엔드 서버 및 데이터베이스 기술을 기반으로 구현하며, 사용자 리뷰 데이터를 분석하여 여행지 안전도를 평가하고 여행 코스를 추천하기 위한 AI 기반 데이터 분석 기술을 활용한다. |
 | 기대 효과 | 여성 1인 여행자가 안전하고 효율적으로 여행을 계획할 수 있고, 여성의 이동권과 안전권을 기술적으로 보장한다. |
 | GitHub Repo | [https://github.com/capstone-team404](https://github.com/capstone-team404) |
-| Team Ground Rule | [Team Ground Rule](./Team_Ground_Rule.md) |
-| 최종수정일 | 26.03.10 |
+| Team Ground Rule | [https://github.com/iinge/Ewha-2026-Spring/blob/main/Team_Ground_Rule.md |
+| 최종수정일 | 26.03.11 |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
